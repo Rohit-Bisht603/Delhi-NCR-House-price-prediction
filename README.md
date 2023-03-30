@@ -7,7 +7,7 @@
 
 ### Skills covered:
 1. Python
-2. Numpy, Pandas, matplotlib
+2. Numpy, Pandas, Matplotlib
 3. Data cleaning - handling null values, outlier detection, handling abrupt values
 4. Feature Engineering
 5. Sklearn for model building, hyperparameter tuning
